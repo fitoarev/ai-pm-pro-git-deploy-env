@@ -21,7 +21,7 @@ export function HeroSection() {
               <span className="bg-gradient-to-r from-purple-400 to-violet-300 bg-clip-text text-transparent">
                 IA
               </span>{" "}
-              y conviértete en el PM que buscan las empresas más avanzadas
+              y conviértete en el PM PRO
             </h1>
 
             <p className="text-lg text-slate-300 mb-8 leading-relaxed">
